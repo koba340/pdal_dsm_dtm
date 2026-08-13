@@ -43,4 +43,4 @@ python pdal_DSM_DTM.py<p>
 DTM, DSM and DCHM will be exported as GeoTIFF format.
 
 # Notice
-This code is non-commercial use ONLY.
+This code is only for non-commercial use.
