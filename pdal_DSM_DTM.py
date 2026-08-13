@@ -110,7 +110,7 @@ with rasterio.open(output_dsm) as src:
 chm = dsm - dtm
 chm[chm < 0] = 0
 
-# （オプション）平滑化
+# Smoothing
 chm = ndimage.gaussian_filter(chm, sigma=1)
 
 # =========================
