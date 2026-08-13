@@ -11,7 +11,7 @@ input_las = "/path/to/lasfile.las"
 resolution = 1.0
 output_dtm =  "/path/to/DTM.tif"
 output_dsm =  "/path/to/DSM.tif"
-output_dchm = "/path/to/DHCM.tif"
+output_dchm = "/path/to/DCHM.tif"
 
 # SMRF
 smrf_scalar = 1.25
